@@ -1,0 +1,7 @@
+6 3
+0 Maracuja 0 0 0
+1 Pimenta-do-Reino 0 0 1
+2 Cafe 0 1 0
+3 Mamao 0 1 1
+4 Coco 1 0 0
+5 Goiaba 1 0 1

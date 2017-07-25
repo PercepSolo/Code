@@ -1,0 +1,42 @@
+Codificação da rede neural:
+
+Obs:	
+	- Inicialmente 6 culturas
+	- 3 bits para representa-las
+
+id	codigo   fruta
+
+0	000		Maracujá
+1	001		Pimenta do reino
+2	010 	Café
+3	011		Mamão
+4	100		Côco
+5	101		Goiaba
+
+
+
+Entrada de dados da rede neural:
+- Temperatura apresnetada						0 (Medias mais baixas) <= i < 10 (médias mais altas)
+- Disponibilidade de agua						0 (pouco disponivel) <= i <= 10 (muito disponivel)
+- Disponibilidade de Macronutrientes			0 (pouco disponivel) <= i <= 10 (muito disponivel)
+- Disponibilidade de Micronutrientes			0 (pouco disponivel) <= i <= 10 (muito disponivel)
+- Tipo terreno									0 (Extremamente irregular) <= i <= 10 (Extremamente regular)
+- (outros parametros..)
+
+
+
+maracuja:
+	3  =  3/10
+	7  =  7/10
+	5  =  5/10
+	8  =  8/10
+	2  =  2/10
+
+
+
+
+
+
+
+
+
