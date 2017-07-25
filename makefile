@@ -1,8 +1,8 @@
-all:
-	g++ main.cpp -o main
+fit:
+	g++ fit.cpp -o fit
 
-exe:
-	./main
+run:
+	g++ run.cpp -o run
 
 clean:
-	rm main
+	rm run fit
